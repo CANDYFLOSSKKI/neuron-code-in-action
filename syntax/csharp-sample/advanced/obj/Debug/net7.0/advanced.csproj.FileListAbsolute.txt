@@ -1,0 +1,14 @@
+D:\Project\Rider\csharp-sample\advanced\bin\Debug\net7.0\advanced.exe
+D:\Project\Rider\csharp-sample\advanced\bin\Debug\net7.0\advanced.deps.json
+D:\Project\Rider\csharp-sample\advanced\bin\Debug\net7.0\advanced.runtimeconfig.json
+D:\Project\Rider\csharp-sample\advanced\bin\Debug\net7.0\advanced.dll
+D:\Project\Rider\csharp-sample\advanced\bin\Debug\net7.0\advanced.pdb
+D:\Project\Rider\csharp-sample\advanced\obj\Debug\net7.0\advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Rider\csharp-sample\advanced\obj\Debug\net7.0\advanced.AssemblyInfoInputs.cache
+D:\Project\Rider\csharp-sample\advanced\obj\Debug\net7.0\advanced.AssemblyInfo.cs
+D:\Project\Rider\csharp-sample\advanced\obj\Debug\net7.0\advanced.csproj.CoreCompileInputs.cache
+D:\Project\Rider\csharp-sample\advanced\obj\Debug\net7.0\advanced.dll
+D:\Project\Rider\csharp-sample\advanced\obj\Debug\net7.0\refint\advanced.dll
+D:\Project\Rider\csharp-sample\advanced\obj\Debug\net7.0\advanced.pdb
+D:\Project\Rider\csharp-sample\advanced\obj\Debug\net7.0\advanced.genruntimeconfig.cache
+D:\Project\Rider\csharp-sample\advanced\obj\Debug\net7.0\ref\advanced.dll
