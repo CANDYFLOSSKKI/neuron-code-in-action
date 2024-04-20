@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i+qglF974Otl1k8rXNNPrvcGOGfANZeIeW2M3tXhWZPQsb43GYXwN6GEuCNczfmnxPAJgKBOnw7a/HZnhOdM+w==",
+  "dgSpecHash": "bmKzKcTY1ayEWG7ijRBcmx8z9YVrCGMXdu+Ir0whjk1/uDitrhuOK4B6fBshsp9HldxHwpOdGCzUvP4ff7/Ufg==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Rider\\csharp-sample\\basic\\basic.csproj",
+  "projectFilePath": "D:\\Project\\#Git\\neuron-code-in-action\\csharp-sample\\basic\\basic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

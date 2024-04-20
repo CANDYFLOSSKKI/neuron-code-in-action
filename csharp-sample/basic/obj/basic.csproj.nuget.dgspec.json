@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Rider\\csharp-sample\\basic\\basic.csproj": {}
+    "D:\\Project\\#Git\\neuron-code-in-action\\csharp-sample\\basic\\basic.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Rider\\csharp-sample\\basic\\basic.csproj": {
+    "D:\\Project\\#Git\\neuron-code-in-action\\csharp-sample\\basic\\basic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Rider\\csharp-sample\\basic\\basic.csproj",
+        "projectUniqueName": "D:\\Project\\#Git\\neuron-code-in-action\\csharp-sample\\basic\\basic.csproj",
         "projectName": "basic",
-        "projectPath": "D:\\Project\\Rider\\csharp-sample\\basic\\basic.csproj",
+        "projectPath": "D:\\Project\\#Git\\neuron-code-in-action\\csharp-sample\\basic\\basic.csproj",
         "packagesPath": "C:\\Users\\cteyn\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Rider\\csharp-sample\\basic\\obj\\",
+        "outputPath": "D:\\Project\\#Git\\neuron-code-in-action\\csharp-sample\\basic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\cteyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

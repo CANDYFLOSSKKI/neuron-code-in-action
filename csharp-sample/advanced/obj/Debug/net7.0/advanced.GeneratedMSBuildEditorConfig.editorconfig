@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = advanced
-build_property.ProjectDir = D:\Project\Rider\csharp-sample\advanced\
+build_property.ProjectDir = D:\Project\#Git\neuron-code-in-action\csharp-sample\advanced\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
